@@ -10,7 +10,7 @@ _40 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/40-grupe-coming-soon/
+Site published at: 
 
 Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
 
@@ -25,4 +25,4 @@ Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Ringaudas: 
