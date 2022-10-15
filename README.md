@@ -10,7 +10,7 @@ _40 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: ringaudask.github.io/coming-soon-web/
 
 Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
 
@@ -25,4 +25,4 @@ Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/
 
 ## Authors
 
-Ringaudas: 
+Ringaudas: https://github.com/RingaudasK
